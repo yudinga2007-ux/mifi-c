@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/hw5.dir/link.d CMakeFiles/hw5.dir/main.cpp.o -o hw5  _deps/sqlitecpp-build/libSQLiteCpp.a _deps/sqlitecpp-build/sqlite3/libsqlite3.a -ldl
