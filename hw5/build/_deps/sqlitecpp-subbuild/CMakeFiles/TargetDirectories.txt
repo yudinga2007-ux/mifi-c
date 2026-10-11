@@ -1,0 +1,3 @@
+/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-subbuild/CMakeFiles/sqlitecpp-populate.dir
+/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-subbuild/CMakeFiles/edit_cache.dir
+/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-subbuild/CMakeFiles/rebuild_cache.dir

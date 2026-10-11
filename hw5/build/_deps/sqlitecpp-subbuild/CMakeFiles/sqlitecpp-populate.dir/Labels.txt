@@ -1,0 +1,14 @@
+# Target labels
+ sqlitecpp-populate
+# Source files and their labels
+/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-subbuild/CMakeFiles/sqlitecpp-populate
+/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-subbuild/CMakeFiles/sqlitecpp-populate.rule
+/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-subbuild/CMakeFiles/sqlitecpp-populate-complete.rule
+/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-build.rule
+/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-configure.rule
+/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-download.rule
+/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-install.rule
+/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-mkdir.rule
+/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-patch.rule
+/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-test.rule
+/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-subbuild/sqlitecpp-populate-prefix/src/sqlitecpp-populate-stamp/sqlitecpp-populate-update.rule

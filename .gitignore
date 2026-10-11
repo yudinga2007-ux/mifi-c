@@ -7,3 +7,5 @@ code_check
 journal.txt
 a.out
 dz1_cpp/dz1_complex
+budgets/
+*.sqlite

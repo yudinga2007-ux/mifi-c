@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

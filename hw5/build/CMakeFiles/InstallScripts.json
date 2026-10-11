@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/user67/mifi-c/hw5/build/cmake_install.cmake",
+		"/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-build/cmake_install.cmake",
+		"/home/user67/mifi-c/hw5/build/_deps/sqlitecpp-build/sqlite3/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
